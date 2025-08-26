@@ -34,7 +34,7 @@ I am passionate about using robust data engineering and advanced machine learnin
       <h3 align="center">Cosmic Classifier</h3>
       <div align="center">
         <a href="https://github.com/codex83/Cosmic-Classifier" target="_blank">
-          <img src="https://raw.githubusercontent.com/codex83/codex83/main/assets/cosmic.png" alt="Cosmic Classifier Project" width="100%">
+          <img src="https://raw.githubusercontent.com/codex83/codex83/main/assets/cosmic-classifier-banner.jpg" alt="Cosmic Classifier Project" width="100%">
         </a>
         <p>
           Developed a machine learning model to classify celestial objects (Stars, Galaxies, Quasars) from observational Sloan Digital Sky Survey data.
@@ -50,7 +50,7 @@ I am passionate about using robust data engineering and advanced machine learnin
       <h3 align="center">Exo-Hunter</h3>
       <div align="center">
         <a href="https://github.com/codex83/Exo-Hunter" target="_blank">
-          <img src="https://raw.githubusercontent.com/codex83/codex83/main/assets/exo.png" alt="Exo-Hunter Project" width="100%">
+          <img src="https://raw.githubusercontent.com/codex83/codex83/main/assets/exo-hunter_confusion-matrix.png" alt="Exo-Hunter Project" width="100%">
         </a>
         <p>
           Built a classification model to identify exoplanets from the flux data of distant stars, contributing to the search for new worlds.
