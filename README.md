@@ -8,7 +8,7 @@
 
 I am an Applied Data Science Master's student at the University of Chicago, specializing in building impactful, end-to-end machine learning solutions.
 
-[cite_start]My journey into data science began in finance, where I automated workflows and built data dashboards that reduced reporting time by 30% and improved accuracy by 15%[cite: 22, 21]. This experience taught me to ground technical work in business value. Today, I apply that same focus to more complex challenges. [cite_start]I've built real-time cyber threat detection pipelines [cite: 34, 82][cite_start], analyzed 1.36 TiB of data on Google Cloud Platform with Apache Spark[cite: 39, 88], and am developing advanced models to classify celestial objects and hunt for exoplanets.
+My journey into data science began in finance, where I automated workflows and built data dashboards that reduced reporting time by 30% and improved accuracy by 15%. This experience taught me to ground technical work in business value. Today, I apply that same focus to more complex challenges: I've built real-time cyber threat detection pipelines, analyzed 1.36 TiB of data on Google Cloud Platform with Apache Spark, and am developing advanced models to classify celestial objects and hunt for exoplanets.
 
 I am passionate about using robust data engineering and advanced machine learning to solve meaningful business problems.
 
@@ -23,7 +23,7 @@ I am passionate about using robust data engineering and advanced machine learnin
           <img src="https://raw.githubusercontent.com/codex83/codex83/main/assets/turing.png" alt="TuringBots Project" width="100%">
         </a>
         <p>
-          [cite_start]Analyzed 1.36 TiB of GitHub Archive data using Apache Spark on GCP to extract trends in commit behavior and assess AI's influence on software development[cite: 39, 88, 89].
+          Analyzed 1.36 TiB of GitHub Archive data using Apache Spark on GCP to extract trends in commit behavior and assess AI's influence on software development.
         </p>
         <p>
           <strong>Tech Stack:</strong> Apache Spark, Google Cloud Platform, Python, Pandas
@@ -98,5 +98,4 @@ I am passionate about using robust data engineering and advanced machine learnin
 <p>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-</p>
+  <img src="
