@@ -20,7 +20,7 @@ I am passionate about using robust data engineering and advanced machine learnin
       <h3 align="center">TuringBots & AI in Software Engineering</h3>
       <div align="center">
         <a href="https://github.com/codex83/turingbots-ai-se" target="_blank">
-          <img src="https://raw.githubusercontent.com/codex83/codex83/main/assets/turing.png" alt="TuringBots Project" width="100%">
+          <img src="https://raw.githubusercontent.com/codex83/codex83/main/assets/top_ds_ai_trend.png" alt="TuringBots Project" width="100%">
         </a>
         <p>
           Analyzed 1.36 TiB of GitHub Archive data using Apache Spark on GCP to extract trends in commit behavior and assess AI's influence on software development.
