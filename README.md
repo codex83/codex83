@@ -61,7 +61,19 @@ I am passionate about using robust data engineering and advanced machine learnin
       </div>
     </td>
     <td width="50%">
-      </td>
+      <h3 align="center">Credit Risk Showdown</h3>
+      <div align="center">
+        <a href="https://github.com/codex83/Credit-Risk-Showdown" target="_blank">
+          <img src="https://raw.githubusercontent.com/codex83/codex83/main/assets/comparison_profit_curves.png" alt="Credit Risk Project" width="100%">
+        </a>
+        <p>
+          A comparative analysis of 5 ML models to predict credit risk on the UCI German Credit dataset, achieving a 0.94 F1-Score after handling class imbalance with SMOTE.
+        </p>
+        <p>
+          <strong>Tech Stack:</strong> XGBoost, CatBoost, Scikit-learn, SMOTE, Pandas
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
 
@@ -94,8 +106,15 @@ I am passionate about using robust data engineering and advanced machine learnin
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop"/>
 </p>
 
+<h4>Developer Tools & Version Control:</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
 <h4>Visualization & Business Intelligence:</h4>
 <p>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI"/>
-  <img src="
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+</p>
