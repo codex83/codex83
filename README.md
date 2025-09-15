@@ -26,7 +26,7 @@ I am passionate about using robust data engineering and advanced machine learnin
           Designed and built a complete ETL pipeline to ingest, clean, and analyze global power plant data, culminating in a relational database for business intelligence.
         </p>
         <p>
-          <strong>Tech Stack:</strong> Python, Pandas, MySQL, Tableau
+          <strong>Tech Stack:</strong> MySQL, Tableau, Python, Pandas
         </p>
       </div>
     </td>
