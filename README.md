@@ -8,9 +8,10 @@
 
 I am an Applied Data Science Master's student at the University of Chicago, specializing in building impactful, end-to-end machine learning solutions.
 
-My journey into data science began in finance, where I automated workflows and built data dashboards that reduced reporting time by 30% and improved accuracy by 15%. This experience taught me to ground technical work in business value. Today, I apply that same focus to more complex challenges: I've built real-time cyber threat detection pipelines, analyzed 1.36 TiB of data on Google Cloud Platform with Apache Spark, and am developing advanced models to classify celestial objects and hunt for exoplanets.
+My journey into data science began in finance, where I automated workflows and built data dashboards that reduced reporting time by 30% and improved accuracy by 15%. This experience taught me to ground technical work in business value. Today, I apply that same focus to more complex challenges: I have designed and built a complete data engineering pipeline to centralize global energy data, analyzed 1.36 TiB of software development trends on Google Cloud with Apache Spark, and developed advanced models to classify celestial objects and hunt for exoplanets.
 
 I am passionate about using robust data engineering and advanced machine learning to solve meaningful business problems.
+
 
 ## 🔭 My Featured Work
 
