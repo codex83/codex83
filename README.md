@@ -17,10 +17,10 @@ I am passionate about using robust data engineering and advanced machine learnin
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">End-to-End Data Engineering Pipeline</h3>
+      <h3 align="center">Global Power Plant Project</h3>
       <div align="center">
         <a href="https://github.com/codex83/Global-Power-Plant-Database" target="_blank">
-          <img src="https://raw.githubusercontent.com/codex83/codex83/assets/EER.png" alt="Global Power Plant Project" width="100%">
+          <img src="https://raw.githubusercontent.com/codex83/codex83/main/assets/EER.png" alt="Global Power Plant Project" width="100%">
         </a>
         <p>
           Designed and built a complete ETL pipeline to ingest, clean, and analyze global power plant data, culminating in a relational database for business intelligence.
