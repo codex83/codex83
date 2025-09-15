@@ -17,16 +17,16 @@ I am passionate about using robust data engineering and advanced machine learnin
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">TuringBots & AI in Software Engineering</h3>
+      <h3 align="center">End-to-End Data Engineering Pipeline</h3>
       <div align="center">
-        <a href="https://github.com/codex83/turingbots-ai-se" target="_blank">
-          <img src="https://raw.githubusercontent.com/codex83/codex83/main/assets/top_ds_ai_trend.png" alt="TuringBots Project" width="100%">
+        <a href="https://github.com/codex83/Global-Power-Plant-Database" target="_blank">
+          <img src="https://raw.githubusercontent.com/codex83/assets/EER.png" alt="Global Power Plant Project" width="100%">
         </a>
         <p>
-          Analyzed 1.36 TiB of GitHub Archive data using Apache Spark on GCP to extract trends in commit behavior and assess AI's influence on software development.
+          Designed and built a complete ETL pipeline to ingest, clean, and analyze global power plant data, culminating in a relational database for business intelligence.
         </p>
         <p>
-          <strong>Tech Stack:</strong> Apache Spark, Google Cloud Platform, Python, Pandas
+          <strong>Tech Stack:</strong> Python, Pandas, MySQL, Tableau
         </p>
       </div>
     </td>
@@ -73,6 +73,25 @@ I am passionate about using robust data engineering and advanced machine learnin
           <strong>Tech Stack:</strong> XGBoost, CatBoost, Scikit-learn, SMOTE, Pandas
         </p>
       </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">TuringBots & AI in Software Engineering</h3>
+      <div align="center">
+        <a href="https://github.com/codex83/turingbots-ai-se" target="_blank">
+          <img src="https://raw.githubusercontent.com/codex83/codex83/main/assets/top_ds_ai_trend.png" alt="TuringBots Project" width="100%">
+        </a>
+        <p>
+          Analyzed 1.36 TiB of GitHub Archive data using Apache Spark on GCP to extract trends in commit behavior and assess AI's influence on software development.
+        </p>
+        <p>
+          <strong>Tech Stack:</strong> Apache Spark, Google Cloud Platform, Python, Pandas
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <!-- You can add your next featured project here! -->
     </td>
   </tr>
 </table>
