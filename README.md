@@ -37,7 +37,7 @@ I am passionate about using robust data engineering and advanced machine learnin
           <img src="https://raw.githubusercontent.com/codex83/codex83/main/assets/cosmic-classifier-banner.jpg" alt="Cosmic Classifier Project" width="100%">
         </a>
         <p>
-          Developed a machine learning model to classify celestial objects (Stars, Galaxies, Quasars) from observational Sloan Digital Sky Survey data.
+          Developed a machine learning model to classify galaxies from observational Sloan Digital Sky Survey data.
         </p>
          <p>
           <strong>Tech Stack:</strong> Python, Scikit-learn, Pandas, Matplotlib, Seaborn
